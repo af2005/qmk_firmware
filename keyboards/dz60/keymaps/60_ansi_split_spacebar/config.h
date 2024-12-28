@@ -1,0 +1,2 @@
+#define TAPPING_TERM 150
+#define RGBLIGHT_LED_COUNT 16
